@@ -1,0 +1,8 @@
+ollama
+langchain
+chromadb
+gradio
+langchain-community
+pymupdf
+streamlit
+langchain-ollama
