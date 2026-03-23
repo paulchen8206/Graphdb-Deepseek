@@ -1,0 +1,32 @@
+# OS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.python-version
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# Office temp files
+~$*.docx
+
+# Local Ollama model/cache data
+deepseek_in_docker/ollama-models/
